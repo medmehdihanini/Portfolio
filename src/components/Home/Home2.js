@@ -33,18 +33,18 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              Whenever possible, I also apply my passion for developing products with <b className="purple">Java</b>, <b className="purple">Node.js</b>, and
               <i>
                 <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
+                  {" "}Modern Javascript Libraries and Frameworks
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple">React.js, Next.js, Express.js, and Nest.js</b>. <br/>
               </i>
+              Beyond JavaScript, I leverage my skills in <b className="purple">Spring Boot</b> to build robust backend solutions, integrating my expertise in <b className="purple">web development</b>, <b className="purple">blockchain</b>, and <b className="purple">DevOps</b>. My approach is enriched by my engineering education at Esprit and my drive to create innovative solutions.
+
             </p>
           </Col>
           <Col md={4} className="myAvtar">
